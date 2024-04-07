@@ -1,0 +1,37 @@
+body {
+    color:rgb(2, 58, 59);
+    background-color: #a8dbdb;
+}
+h1 {
+    color: darkblue;
+    font-size: 30px;
+    font: bold;
+}
+
+form {
+    background-color: rgb(158, 191, 252);
+    width: 50%;
+    font-size: 18px;
+}
+.date {
+    width: 50%;
+}
+select {
+    font-size: 15px;
+    color:rgb(2, 58, 59);
+    width: 50%;
+}
+button {
+    border-radius: 10px;
+    border: 2px solid grey;
+    padding: 6px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    position: relative;
+}
+button:hover {
+    background-color: #b3cff5;
+    color: white;
+}
